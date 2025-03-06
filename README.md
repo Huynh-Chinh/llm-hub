@@ -38,6 +38,6 @@ We encourage everyone to participate and share knowledge! You can:
 
 - 🌐 **GitHub Repo**: [https://github.com/Huynh-Chinh/llm-hub](#)  
 - 📢 **Discussions & Feedback**: Open an Issue or participate in Discussions.  
-- 💬 **Community**: (Add Discord, Slack, or forum links if available)  
+- 💬 **Community**: [https://github.com/Huynh-Chinh/llm-hub/discussions]  
 
 Let's build a strong and thriving AI community together! 🚀🔥  
